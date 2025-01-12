@@ -61,11 +61,6 @@ section .container {
     margin-right: 8px;
 }
 
-.container h2 {
-    display: flex;
-    justify-content: space-between;
-}
-
 section .container {
     align-items: flex-start;
 }
@@ -79,7 +74,7 @@ section h2 {
 }
 
 section{
-    color: #182c61;
+    color: #ba64ec;
 }
 
 section p {
@@ -132,23 +127,23 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #ba64ec;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #334e9b;
+    background-color: #d590de;
 }
 
 input:focus, 
 textarea:focus {
-    outline-color: #182c61;
+    outline-color: #ba64ec;
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #ba64ec;
     color: #ecf0f1;
     padding: 16px 0;
 }
